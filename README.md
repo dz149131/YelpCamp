@@ -6,15 +6,15 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minu
 
 ## Table of Contents
 
-- [CRUD](https://https://github.com/dz149131/YelpCamp#CRUD)
-- [Errors & Validating Data](https://github.com/dz149131/YelpCamp#)
-- [Reviews](https://github.com/dz149131/YelpCamp#)
-- [Flash](https://github.com/dz149131/YelpCamp#)
-- [Authentication](https://github.com/dz149131/YelpCamp#)
-- [Authorization](https://github.com/dz149131/YelpCamp#)
-- [Controllers & Star Rating](https://github.com/dz149131/YelpCamp#)
-- [Image Upload](https://github.com/dz149131/YelpCamp#)
-- [Maps](https://github.com/dz149131/YelpCamp#Maps)
+- [CRUD](https://https://github.com/dz149131/YelpCamp#crud)
+- [Errors and Validating Data](https://github.com/dz149131/YelpCamp#errors-and-validating-data)
+- [Reviews](https://github.com/dz149131/YelpCamp#reviews)
+- [Flash](https://github.com/dz149131/YelpCamp#flash)
+- [Authentication](https://github.com/dz149131/YelpCamp#authentication)
+- [Authorization](https://github.com/dz149131/YelpCamp#authorization)
+- [Controllers and Star Rating](https://github.com/dz149131/YelpCamp#controllers-and-star-rating)
+- [Image Upload](https://github.com/dz149131/YelpCamp#image-upload)
+- [Maps](https://github.com/dz149131/YelpCamp#maps)
 
 
 CRUD
