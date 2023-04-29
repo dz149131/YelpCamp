@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minu
 - [Authorization](https://github.com/dz149131/)
 - [Controllers & Star Rating](https://github.com/dz149131/)
 - [Image Upload](https://github.com/dz149131/)
-- [Maps](https://github.com/dz149131/)
+- [Maps](https://github.com/dz149131/Maps)
 
 
 CRUD
