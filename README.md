@@ -7,14 +7,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minu
 ## Table of Contents
 
 - [CRUD](https://github.com/dz149131/YelpCamp/blob/main/README.md#crud)
-- [Errors and Validating Data](https://github.com/dz149131/YelpCamp#errors-and-validating-data)
-- [Reviews](https://github.com/dz149131/YelpCamp#reviews)
-- [Flash](https://github.com/dz149131/YelpCamp#flash)
-- [Authentication](https://github.com/dz149131/YelpCamp#authentication)
-- [Authorization](https://github.com/dz149131/YelpCamp#authorization)
-- [Controllers and Star Rating](https://github.com/dz149131/YelpCamp#controllers-and-star-rating)
-- [Image Upload](https://github.com/dz149131/YelpCamp#image-upload)
-- [Maps](https://github.com/dz149131/YelpCamp#maps)
+- [Errors and Validating Data](https://github.com/dz149131/YelpCamp/edit/main/README.md#errors-validating-data)
+- [Reviews](https://github.com/dz149131/YelpCamp/edit/main/README.md#reviews)
+- [Flash](https://github.com/dz149131/YelpCamp/edit/main/README.md#flash)
+- [Authentication](https://github.com/dz149131/YelpCamp/edit/main/README.md#authentication)
+- [Authorization](https://github.com/dz149131/YelpCamp/edit/main/README.md#authorization)
+- [Controllers and Star Rating](https://github.com/dz149131/YelpCamp/edit/main/README.md#controllers-and-star-rating)
+- [Image Upload](https://github.com/dz149131/YelpCamp/edit/main/README.md#image-upload)
+- [Maps](https://github.com/dz149131/YelpCamp/edit/main/README.md#maps)
 
 
 CRUD
@@ -24,7 +24,7 @@ CRUD
 
 **EMPTY** - Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minus veniam ipsam quidem natus error aperiam, animi nostrum doloribus maxime, quia esse ipsa laboriosam iste! Delectus, enim mollitia.
 
-Errors & Validating Data
+Errors and Validating Data
 ---------
 
 **EMPTY** - Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minus veniam ipsam quidem natus error aperiam, animi nostrum doloribus maxime, quia esse ipsa laboriosam iste! Delectus, enim mollitia.
@@ -57,7 +57,7 @@ Authorization
 **EMPTY** - Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minus veniam ipsam quidem natus error aperiam, animi nostrum doloribus maxime, quia esse ipsa laboriosam iste! Delectus, enim mollitia.
 
 
-Controllers & Star Rating
+Controllers and Star Rating
 ---------
 
 **EMPTY** - Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minus veniam ipsam quidem natus error aperiam, animi nostrum doloribus maxime, quia esse ipsa laboriosam iste! Delectus, enim mollitia.
