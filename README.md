@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minu
 ## Table of Contents
 
 - [CRUD](https://github.com/dz149131/YelpCamp/blob/main/README.md#crud)
-- [Errors and Validating Data](https://github.com/dz149131/YelpCamp/edit/main/README.md#errors-validating-data)
+- [Errors and Validating Data](https://github.com/dz149131/YelpCamp/blob/main/README.md#errors-validating-data)
 - [Reviews](https://github.com/dz149131/YelpCamp/edit/main/README.md#reviews)
 - [Flash](https://github.com/dz149131/YelpCamp/edit/main/README.md#flash)
 - [Authentication](https://github.com/dz149131/YelpCamp/edit/main/README.md#authentication)
