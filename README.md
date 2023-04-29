@@ -1,7 +1,7 @@
 #YelpCamp
 ========
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic commodi minus veniam ipsam quidem natus error aperiam, animi nostrum doloribus maxime, quia esse ipsa laboriosam iste! Delectus, enim mollitia.
+The site has pages devoted to individual locations, such as campsites, where users can submit a review of their products or services using a one to five star rating scale.
 
 
 ## Table of Contents
