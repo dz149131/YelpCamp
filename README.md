@@ -28,6 +28,8 @@ CRUD
 
 - **Delete** -  Allows the user to remove or delete data or records from the database.
 
+<img width="1400" alt="CRUD" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/authentication.PNG">
+
 
 Errors and Validating Data
 ---------
@@ -38,30 +40,35 @@ Errors and Validating Data
 
 - **JOI Schema Validations** -  Defined a schema for the input data and ensures that the input data conforms to the schema before processing it.
 
+<img width="1400" alt="Errors and Validating Data" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/error-validating-data.PNG">
 
 Reviews
 ---------
 
 - **Reviews** - Users have the option to submit reviews of products or services using a one to five-star rating system. Additionally, reviews authored by specific individuals are selected and included in the overall review list
 
+<img width="1400" alt="Reviews" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/reviews.PNG">
 
 Flash
 ---------
 
 - **Flash** - Using flash to provide feedback, improve the user experience, prevent multiple submissions, and assist with debugging and troubleshooting.
 
+<img width="1400" alt="Flash" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/flash.PNG">
 
 Authentication
 ---------
 
 - **Authentication** - Ensures security, control access, maintain accountability, and protect user privacy.
 
+<img width="1400" alt="Authentication" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/authentication.PNG">
 
 Authorization
 ---------
 
 - **Authorization** - Determines whether a user has the necessary permissions to access or perform certain actions within an application or system.
 
+<img width="1400" alt="Authorization" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/authorization.PNG">
 
 Image Upload
 ---------
@@ -70,6 +77,7 @@ Image Upload
 
 - **Display Visual Content** -  Helps convey information more effectively than text alone. Allows users to include visual content in their campground, making it more engaging and informative for users.
 
+<img width="1400" alt="Image Upload" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/image-upload.PNG">
 
 Maps
 ---------
@@ -78,3 +86,4 @@ Maps
 
 - **Enable Location-based Applications** -  enables users to create campgrounds with the location plotted onto the map geospatial data to provide users with relevant information.
 
+<img width="1400" alt="Maps" src="https://github.com/dz149131/YelpCamp/blob/main/readme-photos/map.PNG">
